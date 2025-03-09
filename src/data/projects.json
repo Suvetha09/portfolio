@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "A personal portfolio built with React and Vite to showcase my skills and projects.",
+    "skills": ["React", "Vite", "CSS"], 
+    "demo": "https://github.com/Suvetha09/portfolio",
+    "source": "https://github.com/Suvetha09/portfolio"
+  }
+  
+]

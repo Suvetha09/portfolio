@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Sify",
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "experiences": ["Working in different parts of a mern app"],
+    "imageSrc": "history/sify.png"
+  },
+  {
+    "role": "Engineer Trainee",
+    "organisation": "Sify",
+    "startDate": "July, 2023",
+    "endDate": "July, 2024",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/sify.png"
+  }
+]
